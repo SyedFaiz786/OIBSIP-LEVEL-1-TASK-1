@@ -1,0 +1,34 @@
+body{
+    width:100%;
+    height:100vh;
+}
+#screen{
+    width:90%;
+    height:60px;
+    background-color: black;
+    color:white;
+    font-size: larger;
+    font-weight:bold;
+    border:none;
+    text-align: right;
+    margin-top: 10px;
+    margin-left:-10px;
+    border-radius: 3px;
+}
+.calc{
+    border: 1px solid black;
+    width:40%; 
+    height:470px;
+    background-color:white;
+    box-shadow: 10px 10px 30px black;
+    border:none;
+    padding:20px;
+}
+.calc  div button {
+    background-color: black;
+    color:white;
+    font-size: larger;
+    font-weight:bold;
+    border:none;
+    box-shadow:10px 10px 10px gray;
+}
